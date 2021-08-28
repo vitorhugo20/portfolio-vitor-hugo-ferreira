@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;
+}
+img{
+    background-color: orange;
+    color: black;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 0px;
+}
+a{
+    padding-left: 75px;
+    background-color: black;
+    color: white;
+}
+a:hover{
+    background-color: red;
+    color: white;
+}
+.div1{
+    background-color: orange;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+.div2{
+    background-color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: blue;
+}
+.cx1{
+    text-align: center;
+    background-color: orange;
+    color: white;
+}
+.ft1{
+    text-align: center;
+    background-color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;
+}
+
